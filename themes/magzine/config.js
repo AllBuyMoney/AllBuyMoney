@@ -31,8 +31,8 @@ const CONFIG = {
 
   // 文章页面联系卡
   MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
-  MAGZINE_SOCIAL_CARD_TITLE_2: '暂无社群',
+  MAGZINE_SOCIAL_CARD_TITLE_1: '暂无社群',
+  MAGZINE_SOCIAL_CARD_TITLE_2: '要不加二狗TG？',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加二狗',
   MAGZINE_SOCIAL_CARD_URL: 'https://t.me/madergo',
 

@@ -2,12 +2,12 @@ const CONFIG = {
   // 首屏信息栏按钮文字
   MAGZINE_HOME_BANNER_ENABLE: true, // 首屏右上角的宣传位
   MAGZINE_HOME_BUTTON: true,
-  MAGZINE_HOME_BUTTON_URL: '/article/22389622-f085-818d-b14e-cf920c425680',
-  MAGZINE_HOME_BUTTON_TEXT: '了解更多',
+  MAGZINE_HOME_BUTTON_URL: 'https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/MEGlBCDOGJeDPyGxxvG27arSHxs/5e9dhg/BxyG8V/vlDgL1xqwl6lXmVVLZiK4XI=',
+  MAGZINE_HOME_BUTTON_TEXT: '添加到微信',
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '日拱一卒无有尽，功不唐捐终入海',
+  MAGZINE_HOME_TITLE: '表情包《交易员二狗》',
   MAGZINE_HOME_DESCRIPTION:
     '其实这部分内容还没想好',
   MAGZINE_HOME_TIPS: '想好后会添加进来',

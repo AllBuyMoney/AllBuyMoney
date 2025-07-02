@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: '日拱一卒无有尽，功不唐捐终入海',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    '其实这部分内容还没想好',
+  MAGZINE_HOME_TIPS: '想好后会添加进来',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
@@ -32,9 +32,9 @@ const CONFIG = {
   // 文章页面联系卡
   MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
-  MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
-  MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_TITLE_2: '暂无社群',
+  MAGZINE_SOCIAL_CARD_TITLE_3: '点击加二狗',
+  MAGZINE_SOCIAL_CARD_URL: 'https://t.me/madergo',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
@@ -42,64 +42,41 @@ const CONFIG = {
       name: '友情链接',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: '蓝星网络笔记',
+          href: 'https://lanxing.substack.com'
         },
         {
-          title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
+          title: '加密阿尔法',
+          href: 'https://www.youtube.com/@0xAlphaBox'
         }
       ]
     },
     {
-      name: '开发者',
+      name: '社交媒体',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
-          title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+          title: 'X/Twitter',
+          href: 'https://x.com/Mad_Ergo'
         },
         {
-          title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+          title: 'Telegram',
+          href: 'https://t.me/madergo'
         },
         {
-          title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
+          title: 'YouTuBe',
+          href: ''
         },
         {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
-        }
+          title: '微信公众号',
+          href: ''
+        },
+        { title: '小红书', href: '' }
       ]
     },
     {
-      name: '支持',
+      name: '二狗也疯狂',
       menus: [
-        {
-          title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
-        },
-        {
-          title: '咨询与定制',
-          href: 'https://docs.tangly1024.com/article/my-service'
-        },
-        {
-          title: '升级手册',
-          href: 'https://docs.tangly1024.com/article/my-service'
-        },
-        {
-          title: '安装教程',
-          href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-        { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
-      ]
-    },
-    {
-      name: '解决方案',
-      menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: '关于二狗', href: 'https://www.allbuy.money/article/22389622-f085-818d-b14e-cf920c425680' },
       ]
     }
   ],
